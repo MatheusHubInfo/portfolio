@@ -6,14 +6,14 @@ body{
     margin: 0px;
 }
 header{
-    background-color: #520000;
+    background-color: #292727;
     color: white;
     text-align: center;
     padding: 15px;
     margin: 15px;
 }
 main{
-    background-color: #520000;
+    background-color: #292727;
     color: white;
     padding: 15px;
     margin: 15px;
@@ -26,7 +26,7 @@ main{
     margin: 0px;
 }
 #rodapeTopo{
-    background-color: #520000;
+    background-color: #292727;
     text-align: center;
     margin-top: -22px;
 }
@@ -35,12 +35,13 @@ nav{
     padding: 30px;
     margin: 20px;
     box-shadow: 6px 8px 3px #250101;
+    display: flex;
+    justify-content: space-between;
 }
 nav > a{
     font-size: 25px;
     color: white;
     text-decoration: none;
-    margin-right: 180px;
 }
 nav > a:hover{
     text-decoration: underline;
@@ -49,4 +50,18 @@ nav > a:hover{
 #principal{
     padding: 10px;
     text-align: center;
+    margin-left: 3%;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#foto{
+    background-color: black;
+    border-radius: 50%;
+    max-width: 10%;
+    max-height: 10%;
+    margin-left: 22%;
+}
+div{
+    display: flex;
+    align-items: center;
 }
