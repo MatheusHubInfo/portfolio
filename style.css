@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+header{
+    background-color: #520000;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+main{
+    background-color: #520000;
+    color: white;
+    padding: 15px;
+    margin: 15px;
+}
+#rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    margin: 0px;
+}
+#rodapeTopo{
+    background-color: #520000;
+    text-align: center;
+    margin-top: -22px;
+}
+nav{
+    background-color: #643838;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 6px 8px 3px #250101;
+}
+nav > a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    margin-right: 180px;
+}
+nav > a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+#principal{
+    padding: 10px;
+    text-align: center;
+}
