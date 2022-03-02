@@ -110,9 +110,6 @@ h2{
 #imagem1{
     text-align: center;
 }
-#imagem1{
-    text-align: center; 
-}
 /* Responsividade do video */
 div.video{
     margin:  0px -20px -30px -20px;
@@ -138,10 +135,10 @@ div.video > iframe{
     text-decoration: underline;
     color: yellow; 
 }
-#rodape{
+footer{
+    text-align: center;
     background-color: black;
     color: white;
-    text-align: center;
     padding: 2px;
     margin: 0px;
 }
