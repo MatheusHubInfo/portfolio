@@ -19,7 +19,7 @@ header{
     margin-top: 10px;
 
     /* Responsividade */
-    max-width: 900px;
+    max-width: 700px;
     min-width: 300px;
 }
 nav{
@@ -31,7 +31,7 @@ nav{
     justify-content: space-between;
 
     /* Responsividade */
-    max-width: 900px;
+    max-width: 700px;
     min-width: 300px;
 }
 nav > a{
@@ -61,7 +61,7 @@ main{
     margin-bottom: 10px;
 
     /* Responsividade */
-    max-width: 900px;
+    max-width: 700px;
     min-width: 300px;
     
 }
