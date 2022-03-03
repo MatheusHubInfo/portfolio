@@ -20,7 +20,7 @@ header{
 
     /* Responsividade */
     max-width: 700px;
-    min-width: 300px;
+    min-width: 350px;
 }
 nav{
     background-color: #643838;
@@ -32,7 +32,7 @@ nav{
 
     /* Responsividade */
     max-width: 700px;
-    min-width: 300px;
+    min-width: 350px;
 }
 nav > a{
     font-size: 20px;
@@ -62,7 +62,7 @@ main{
 
     /* Responsividade */
     max-width: 700px;
-    min-width: 300px;
+    min-width: 200px;
     
 }
 p{
